@@ -1,4 +1,8 @@
-.a-button{
+.carousel-a-button{
     text-decoration: none;
     padding: 5px 10px;
+}
+.a-button{
+    color: white;
+    text-decoration: none;
 }
