@@ -6,3 +6,10 @@
     color: white;
     text-decoration: none;
 }
+.plan-button{
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: blue;
+}
