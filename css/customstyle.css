@@ -13,3 +13,9 @@
     text-decoration: none;
     color: blue;
 }
+@media only screen and (max-width:688px) {
+    .q-section{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
