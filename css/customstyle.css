@@ -14,7 +14,8 @@
     color: blue;
 }
 .toast-custom{
-    border-left: 8px solid rgb(33, 13, 209);
+    border-left: 6px solid rgb(33, 13, 209);
+    border-radius: 5px;
 }
 @media only screen and (max-width:688px) {
     .q-section{
