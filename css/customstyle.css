@@ -13,6 +13,9 @@
     text-decoration: none;
     color: blue;
 }
+.toast-custom{
+    border-left: 8px solid rgb(33, 13, 209);
+}
 @media only screen and (max-width:688px) {
     .q-section{
         display: flex;
